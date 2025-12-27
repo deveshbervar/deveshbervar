@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in First year of BS in <br>Data Science and Applications at<br>IIT Madras<br>AI Content Creator | Hybrid ideas brought to life<br>Creativity meets AI<br>
+I'm currently in Physics Undergraduate <br>Learning the laws of nature through theory & experiment<br>Content Creator | Hybrid ideas brought to life<br>Creativity meets AI<br>
 
 
 ## 🌐 Socials:
