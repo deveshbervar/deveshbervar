@@ -31,7 +31,6 @@
 - 🌌 Interested in **Quantum Computing**, **Computational Physics**, **Computer Vision** & **Open Source**
 - 🚀 Currently building **AI + Physics projects** and contributing to **open source**
 - 📡 Preparing for **research internships** and future graduate studies
-- 🎯 **2026 goals:** global internship · first research publication · a real open-source contribution · a solid AI portfolio
 - ⚡ Ask me about physics-flavored ML, or why quantum computing is worth learning early
 
 <br clear="right">
