@@ -1,111 +1,28 @@
-<!-- ==========================================
-        DEVELOPER PROFILE README
-=========================================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img alt="Devesh Bervar" src="assets/dark.svg" width="100%">
+</picture>
 
-<h1 align="center">Hi 👋, I'm Devesh Bervar</h1>
+# 👋 About Me:
+I'm currently a Physics Undergraduate<br>Learning the laws of nature through theory & experiment<br>Exploring AI, Machine Learning & Open Source<br>Curiosity meets code
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Physics+%C3%97+Artificial+Intelligence;Machine+Learning+Explorer;Open+Source+Contributor;Research+Aspirant;Building+Technology+That+Matters" />
-</p>
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/deveshbervar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-bervar-8a5a75317) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dvsshbrvr@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deveshbervar&label=Visitors&color=7C3AED&style=flat-square"/>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deveshbervar&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=deveshbervar&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshbervar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=shadow_green&hide_border=false)
 
-# 💫 About Me
+# 📈 Activity Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=deveshbervar&theme=react-dark&hide_border=true)
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-🎓 Physics Undergraduate at **Central University of Haryana**
-
-🧠 Exploring **AI • Machine Learning • Scientific Computing**
-
-🌌 Interested in
-
-- Quantum Computing
-- Computational Physics
-- Open Source
-- Research
-- Computer Vision
-
-🚀 Currently building
-
-- Python Projects
-- AI Applications
-- Physics Simulations
-- Open Source Contributions
-
-🎯 2026 Goals
-
-- 🌍 Global Internship
-- 📄 First Research Publication
-- ⭐ Major Open Source Contribution
-- 🤖 AI Portfolio
+# 🐍 Contribution Snake:
+![](assets/snake.svg)
 
 ---
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/deveshbervar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/devesh-bervar-8a5a75317">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-### AI
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deveshbervar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshbervar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=deveshbervar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
+<p align="center"><i>Physics Undergraduate &nbsp;|&nbsp; AI &amp; ML Enthusiast &nbsp;|&nbsp; Open Source Contributor &nbsp;|&nbsp; Research Aspirant</i></p>
